@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/mysource">
+        <file>icon.png</file>
+        <file>bg.bmp</file>
+        <file>arm.png</file>
+        <file>bg1.png</file>
+        <file>start.png</file>
+        <file>started.png</file>
+        <file>pauseed.png</file>
+        <file>pause.png</file>
+        <file>stop.png</file>
+        <file>stoped.png</file>
+        <file>keydown.png</file>
+        <file>keyup.png</file>
+        <file>welcom.jpg</file>
+        <file>D:/Documents/Pictures/welcom.png</file>
+    </qresource>
+</RCC>
